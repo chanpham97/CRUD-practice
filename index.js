@@ -12,6 +12,7 @@
 
 // Use string concatenation or template literals to console log "Next year you will be [age + 1] years old"
 
+// Commit changes this section with an appropriate commit message
 
 // CONDITIONAL STATEMENTS (1.6)
 // Prompt the user to answer if it's hot today
@@ -35,6 +36,8 @@ let randomNumber = Math.random()
 
 // After the if/else statement, use string concatenation/template literals to print "The number was [random number]"
 
+// Commit changes this section with an appropriate commit message
+
 // ARRAYS (1.5)
 // Create an array called friends with at least 2 friends (they don't have to be real!)
 
@@ -52,6 +55,8 @@ let randomNumber = Math.random()
 
 // Console log the friend at the index specified (format it into a nice sentence if you can!)
 
+// Commit changes this section with an appropriate commit message
+
 // OBJECTS (1.5)
 // Create a character object with 3 key:value pairs (e.g. name, show, age)
 
@@ -60,6 +65,8 @@ let randomNumber = Math.random()
 // Modify one of the keys to be a different value
 
 // Add a new key value pair to the object that is an array (e.g. friends, catchphrases)
+
+// Commit changes this section with an appropriate commit message
 
 // STRETCH
 // Make an array called characters that has at least 3 character objects in it
